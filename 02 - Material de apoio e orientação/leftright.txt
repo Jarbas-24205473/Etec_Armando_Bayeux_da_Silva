@@ -1,0 +1,11 @@
+<head>
+<title>Exemplo da tag <center></title>]
+</head>
+<body>
+<center>
+<h1>Este conteúdo está centralizado!</h1>
+<p align="right">Texto alinhado à direita</p>
+<p align="left">Texto alinhado à esquerda</p>
+</center>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<head>
+<title>Texto Alinhado á Direita</title>
+</head>
+<body>
+<p style="text-align: right;">Este texto está alinhado à direita.</p>
+<p style="text-align: left;">Este texto está alinhado á esquerda.</p>
+<p style="text-align: center;">Este texto está centralizado.</p>
+</body>
+</html>
